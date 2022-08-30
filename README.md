@@ -1,6 +1,8 @@
 # AWS-Cloud-api--Image-Filtering Microservices
 
-https://github.com/Cesaire-Njietche/AWS-Cloud-api--Image-Filtering.git
+Github repo: https://github.com/Cesaire-Njietche/AWS-Cloud-api--Image-Filtering.git
+
+ELB deployment end point: http://udagram-nj-dev-dev.us-east-1.elasticbeanstalk.com/
 
 ### Deploying your system
 
